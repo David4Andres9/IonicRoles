@@ -1,0 +1,10 @@
+.loginCardRegistry {
+    height: 87%;
+}
+ion-card-header {
+    margin-bottom: 20%;
+    font-size: 60%;
+  }
+ion-button{
+    height: 8%;
+}
